@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4954e439.chunk.css",
+    "main.js": "/static/js/main.9d0570e0.chunk.js",
+    "main.js.map": "/static/js/main.9d0570e0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f1992ae0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f1992ae0.js.map",
+    "static/css/2.2b8316e7.chunk.css": "/static/css/2.2b8316e7.chunk.css",
+    "static/js/2.6941cfa1.chunk.js": "/static/js/2.6941cfa1.chunk.js",
+    "static/js/2.6941cfa1.chunk.js.map": "/static/js/2.6941cfa1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2b8316e7.chunk.css.map": "/static/css/2.2b8316e7.chunk.css.map",
+    "static/css/main.4954e439.chunk.css.map": "/static/css/main.4954e439.chunk.css.map",
+    "static/js/2.6941cfa1.chunk.js.LICENSE.txt": "/static/js/2.6941cfa1.chunk.js.LICENSE.txt",
+    "static/media/add.365a8517.svg": "/static/media/add.365a8517.svg",
+    "static/media/avatar.7169d945.jpg": "/static/media/avatar.7169d945.jpg",
+    "static/media/avatar2.c4b12ab5.jpg": "/static/media/avatar2.c4b12ab5.jpg",
+    "static/media/bookmark.dce2fb84.svg": "/static/media/bookmark.dce2fb84.svg",
+    "static/media/cardButton.3ea56b27.svg": "/static/media/cardButton.3ea56b27.svg",
+    "static/media/clock.4c336ed0.png": "/static/media/clock.4c336ed0.png",
+    "static/media/details.333fd02b.svg": "/static/media/details.333fd02b.svg",
+    "static/media/explore.751ac1a8.svg": "/static/media/explore.751ac1a8.svg",
+    "static/media/home.1c14e99b.svg": "/static/media/home.1c14e99b.svg",
+    "static/media/inbox.1045a761.svg": "/static/media/inbox.1045a761.svg",
+    "static/media/momo.951e1dba.png": "/static/media/momo.951e1dba.png",
+    "static/media/moneybag.e79df3b2.png": "/static/media/moneybag.e79df3b2.png",
+    "static/media/newMassage.3330ebd0.svg": "/static/media/newMassage.3330ebd0.svg",
+    "static/media/notifications.cd2a3886.svg": "/static/media/notifications.cd2a3886.svg",
+    "static/media/profile.f85188ac.jpg": "/static/media/profile.f85188ac.jpg",
+    "static/media/quagiangLogo.68aec451.png": "/static/media/quagiangLogo.68aec451.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1992ae0.js",
+    "static/css/2.2b8316e7.chunk.css",
+    "static/js/2.6941cfa1.chunk.js",
+    "static/css/main.4954e439.chunk.css",
+    "static/js/main.9d0570e0.chunk.js"
+  ]
+}

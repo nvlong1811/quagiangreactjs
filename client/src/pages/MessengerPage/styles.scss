@@ -1,0 +1,24 @@
+@import "../../variables";
+
+main {
+    background-color: $background-grey;
+    
+    .containerMesage {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+        padding-top: 5em;
+        .cardMesage {
+            display: flex;
+            border: 1px solid $border-color-grey;
+            background-color: $background-white;
+            margin-bottom: 2em;
+            border-radius: 3px;
+            min-width: 900px;
+            min-height: 500px;
+
+        }
+    }
+}
+
+

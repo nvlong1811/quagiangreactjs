@@ -1,0 +1,31 @@
+@import '../../variables.scss';
+
+.cardMessageLeft {
+    border-right: 1px solid $border-color-grey;
+    min-width: 300px;
+    
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1em;
+        border-bottom: 1px solid $border-color-grey;
+
+        .title {
+            margin: auto;
+            font-size: 1.1em;
+            font-weight: 500;
+            color: $font-color-primary;
+        }
+
+        .icon {
+            margin-right: 0.5em;
+            width: 23px;
+            height: 23px;
+        }
+    }
+    
+    .listMessage{
+        padding: 0.3em;
+    }
+}

@@ -1,0 +1,9 @@
+@import '../../variables.scss';
+
+.content{
+    background-color: 'green';
+    color: white;
+    border: 1px solid $border-color-grey;
+
+    // color: 'white', borderRadius:'1em', padding: '1.2em'
+}

@@ -1,0 +1,47 @@
+@import '../../variables.scss';
+
+.cardMessageRight {
+
+    width: 100%;
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.5em 0 0 1em;
+        border-bottom: 1px solid $border-color-grey;
+
+        .title {
+            margin: auto;
+            font-size: 1.1em;
+            font-weight: 500;
+            color: $font-color-primary;
+        }
+
+        .icon {
+            margin-right: 0.5em;
+            width: 23px;
+            height: 23px;
+        }
+    }
+    
+    .listMessage{
+        padding: 0.3em;
+        height: 400px;
+
+        .boxMes{
+            display: grid;
+        }
+    }
+    .sendBox{
+        position: fixed;
+        // left: 0;
+        bottom: 1;
+        padding-bottom: 100;
+        width: 45%;
+        // background-color: red;
+        // color: white;
+        text-align: center;
+        margin-bottom: 0px;
+
+    }
+}
